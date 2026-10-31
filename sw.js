@@ -1,6 +1,6 @@
-/* MINIVERS — service worker généré, version 24k9kc */
-const CACHE = 'minivers-24k9kc'
-const FILES = ["./","./apple-touch-icon.png","./assets/index-BclhptN4.js","./assets/index-Ryypa1WG.css","./assets/render-Dz5nk5as.js","./assets/three-Db0s_oXR.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest"]
+/* MINIVERS — service worker généré, version 1gebcxx */
+const CACHE = 'minivers-1gebcxx'
+const FILES = ["./","./apple-touch-icon.png","./assets/index-CbMo1CsX.js","./assets/index-Ryypa1WG.css","./assets/render-DekgOqNQ.js","./assets/three-FDnq7su4.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest"]
 const ENTRY = './index.html'
 // ignoreVary : certains serveurs répondent « Vary: Origin », ce qui ferait manquer le cache pour les scripts de module (requêtes avec en-tête Origin)
 const MATCH = { ignoreVary: true }
