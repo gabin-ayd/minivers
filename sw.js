@@ -1,6 +1,6 @@
-/* MINIVERS — service worker généré, version 1ugu31b */
-const CACHE = 'minivers-1ugu31b'
-const FILES = ["./","./apple-touch-icon.png","./assets/AnalysisZone-BI0hXMK_.js","./assets/App-BSmDmQot.js","./assets/App-Cwxwbobs.css","./assets/App-D93l_5SL.js","./assets/App-Dj2k3R6C.js","./assets/ControlZone-CDytJ60V.js","./assets/LabHome-Bglk97oA.js","./assets/LabProduct-wkoYwUIb.js","./assets/PRODUCT-LAB-BNKHSpFy.js","./assets/SideBySide-CH2MvFWE.js","./assets/charts-Bwv3U4L3.css","./assets/charts-CKzLK94_.js","./assets/index-BwgTX25P.js","./assets/index-DmB8RNjn.css","./assets/render-B-oX3wNi.js","./assets/report-CyYtiBr_.js","./assets/rolldown-runtime-XKyaHtl9.js","./assets/three-P82L681T.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest"]
+/* MINIVERS — service worker généré, version miwejw */
+const CACHE = 'minivers-miwejw'
+const FILES = ["./","./apple-touch-icon.png","./assets/AnalysisZone-rpTaKiQU.js","./assets/App-BFsSAzPa.js","./assets/App-BNIF8MN9.js","./assets/App-Cwxwbobs.css","./assets/App-D4EMHaxZ.js","./assets/ControlZone-DQDhsFmr.js","./assets/LabHome-D3C2bUgH.js","./assets/LabProduct-DGC_oa9O.js","./assets/PRODUCT-LAB-BNKHSpFy.js","./assets/SideBySide-BkibHYTj.js","./assets/charts-Bwv3U4L3.css","./assets/charts-DrhSFUH4.js","./assets/index-DcWmz4dT.js","./assets/index-DmB8RNjn.css","./assets/render-DW98Ivyc.js","./assets/report-CSHNgeMm.js","./assets/rolldown-runtime-XKyaHtl9.js","./assets/three-P82L681T.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest"]
 const ENTRY = './index.html'
 // ignoreVary : certains serveurs répondent « Vary: Origin », ce qui ferait manquer le cache pour les scripts de module (requêtes avec en-tête Origin)
 const MATCH = { ignoreVary: true }
