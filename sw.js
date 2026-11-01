@@ -1,6 +1,6 @@
-/* MINIVERS — service worker généré, version 1gebcxx */
-const CACHE = 'minivers-1gebcxx'
-const FILES = ["./","./apple-touch-icon.png","./assets/index-CbMo1CsX.js","./assets/index-Ryypa1WG.css","./assets/render-DekgOqNQ.js","./assets/three-FDnq7su4.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest"]
+/* MINIVERS — service worker généré, version 77yuyj */
+const CACHE = 'minivers-77yuyj'
+const FILES = ["./","./apple-touch-icon.png","./assets/AnalysisZone-MaBnNOKQ.js","./assets/App-Cq2oXZZ0.js","./assets/App-Cwxwbobs.css","./assets/App-SwGH5gmp.js","./assets/ControlZone-DekGUxey.js","./assets/LabHome-BHMBFTOB.js","./assets/LabProduct-DRSRSyp4.js","./assets/PRODUCT-LAB-CLYg83JR.js","./assets/SideBySide-CMo3HWCk.js","./assets/charts-BXqgSBY9.js","./assets/charts-BsqJrU5X.css","./assets/index-DfNlM2zz.css","./assets/index-OGls_LNZ.js","./assets/render-DLhy3w0k.js","./assets/report-Wr-KDAtt.js","./assets/rolldown-runtime-XKyaHtl9.js","./assets/three-P82L681T.js","./assets/useLab-B4HmD9T7.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest"]
 const ENTRY = './index.html'
 // ignoreVary : certains serveurs répondent « Vary: Origin », ce qui ferait manquer le cache pour les scripts de module (requêtes avec en-tête Origin)
 const MATCH = { ignoreVary: true }
